@@ -1,0 +1,1 @@
+Day 1: I learned how to authenticate via 'az login', discover subscriptions with 'az account list', and safely isolate environments using 'az group create' with strict cost-center tags.
